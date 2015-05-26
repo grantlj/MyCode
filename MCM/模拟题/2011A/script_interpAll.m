@@ -1,0 +1,9 @@
+%对所有元素进行插值
+valAll(:,:,1)=fun_interp(As1);
+valAll(:,:,2)=fun_interp(Cd1);
+valAll(:,:,3)=fun_interp(Cr1);
+valAll(:,:,4)=fun_interp(Cu1);
+valAll(:,:,5)=fun_interp(Hg1);
+valAll(:,:,6)=fun_interp(Ni1);
+valAll(:,:,7)=fun_interp(Pb1);
+valAll(:,:,8)=fun_interp(Zn1);
